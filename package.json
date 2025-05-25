@@ -1,0 +1,22 @@
+{
+    "name": "tckn",
+    "version": "1.0.0",
+    "description": "This is just a simple tool written to generate mock data and validate for the Turkish Republic Identity Number for testing purposes.",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "tckn",
+        "tc kimlik no",
+        "turkish",
+        "turkey",
+        "identify number"
+    ],
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gurkantuna/tckn"
+    }
+}
