@@ -1,6 +1,6 @@
 {
     "name": "tckn",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This is just a simple tool written to generate mock data and validate for the Turkish Republic Identity Number for testing purposes.",
     "main": "main.js",
     "scripts": {

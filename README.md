@@ -4,5 +4,5 @@ This is just a simple tool written to generate mock data and validate for the Tu
 
 ```js
 const tckn = Tckn.generate();
-const isValidate = Tckn.validate(tckn);
+const isValidated = Tckn.validate(tckn);
 ```
