@@ -1,4 +1,4 @@
-class Tckn {
+export class Tckn {
     static generatedNumber;
     
     static validate(tckn) {

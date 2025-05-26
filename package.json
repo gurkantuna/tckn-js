@@ -1,6 +1,6 @@
 {
     "name": "tckn",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "This is just a simple tool written to generate mock data and validate for the Turkish Republic Identity Number for testing purposes.",
     "main": "main.js",
     "scripts": {
@@ -18,5 +18,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/gurkantuna/tckn-js"
+    },
+    "type": "module",
+    "exports": {
+        ".": "./main.js"
     }
 }
