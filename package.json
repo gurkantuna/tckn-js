@@ -1,6 +1,6 @@
 {
     "name": "tckn",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "This is just a simple tool written to generate mock data and validate for the Turkish Republic Identity Number for testing purposes.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
